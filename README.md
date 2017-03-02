@@ -1,1 +1,2 @@
 # SDAutoLayoutDemo
+本项目是运用第三方库 自动布局SDAutoLayout在对于xib的使用方法
